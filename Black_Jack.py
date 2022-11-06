@@ -202,17 +202,3 @@ while True:
     else:
         print("Thanks for playing!")
         break
-
-
-
-'''
-# experiment 
-new_Deck = Deck()
-m = new_Deck.deal_one()
-
-
-
-new_Deck.shuffle()
-print(m)
-print(len(new_Deck.all_cards))
-'''
